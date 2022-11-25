@@ -7,12 +7,12 @@ A aplicação consiste no cadastro de usuários no banco e estes usuários poder
 
 **Tecnologias utilizadas:**
 
-Python | Django | Django Rest Framework | PostgreSQL | Serializers | Token | DOTENV
+Python | Django | Django Rest Framework | PostgreSQL | Serializers | Token | DOTENV | Generic Views
 
 Para clonar o arquivo em sua máquina use o seguinte comando no seu terminal:
 
 ````
-git clone git@github.com:anjosdelacerda/kenzie-pets.git
+git clone git@github.com:anjosdelacerda/komercio.git
 ````
 
 Para que a aplicação funcione será necessário instalar o Python em sua máquina, você encontrará informações de como fazer isso na <a href="https://docs.python.org/3/tutorial/">documentação</a>. 
